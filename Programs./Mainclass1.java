@@ -10,7 +10,7 @@ class Mainclass1   //Mainclass declaration
 	public static void main(String args[])
 	{
 		Scanner s = new Scanner(System.in);  //object creation for scanner class
-		Product p = new Product();          //object creation for builtin class
+		Product p = new Product();          //object creation for userdefined class
 
 
 		System.out.println("Enter the product code:");
