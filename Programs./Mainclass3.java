@@ -40,6 +40,7 @@ class Mainclass3
 
 //output of the above program
 /*
+
 Static block of Mainclass loaded!
 non-static block of Mainclass loaded!
 Static block of subclass loaded!
@@ -47,4 +48,8 @@ non-static block of subclass loaded!
 non-static block of subclass loaded!
 non-static block of subclass loaded!
 non-static block of subclass loaded!
-non-static block of subclass loaded!       */
+non-static block of subclass loaded!       
+
+*/
+
+
